@@ -1,0 +1,120 @@
+@media(max-width: 899px) and (min-width:100px) {
+    #p1-img {
+      display: none;
+    }
+  
+    .p1 {
+      align-content: center;
+      padding: 0%;
+      margin: 0%;
+    }
+  
+    .p1-a {
+      width: 100%;
+      padding: 20px;
+      margin: 0%;
+    }
+  
+    .p1-b {
+      width: 100%;
+      padding: 20px;
+      margin: 0%;
+    }
+  
+    .p1-c {
+      width: 100%;
+      padding: 20px;
+      margin: 0%;
+    }
+    .box4{
+      padding: 10px;
+    }
+    .p2{
+      align-content: center;
+      align-items: center;
+      margin: 0px 14px 0px;
+    }
+  }
+
+@media (max-width: 660px) {
+    .wrapper {
+      margin: 15px;
+      gap: 15px;
+      grid-template-columns: repeat(auto-fill, 100%);
+    }
+  }
+  
+@media (max-width:1900px) {
+    .p3 {
+      padding: 0px 0px 0px 0px;
+      justify-content: center;
+    }
+  
+    .wrapper {
+      align-items: center;
+      vertical-align: center;
+    }
+  }
+
+
+@media(max-width: 899px) and (min-width:100px) {
+    .container1{
+      align-items: center;
+      align-content: center;
+      margin: 0px 14px 0px;
+    }
+    .container1 h1{
+        padding: 0px 14px 0px;
+    }
+    .container2{
+      align-items: center;
+      align-content: center;
+      margin: 0px 14px 0px;
+    }
+    .bo h1{
+        padding: 0px 15px 0px;
+    }
+  }
+
+
+@media (max-width:562px) {
+    .foot {
+      width: 562px;
+    }
+  }
+  .fa-instagram{
+    color:  var(--fifth-black-text-color);
+  }
+  .fa-github{
+    color:  var(--fifth-black-text-color);
+  }
+  .fa-twitter{
+    color:  var(--fifth-black-text-color);
+  }
+  .fa-telegram{
+    color:  var(--fifth-black-text-color);
+  }
+  .fa-instagram ::after{
+    color:  var(--fifth-black-text-color);
+  }
+  .fa-github ::after{
+    color:  var(--fifth-black-text-color);
+  }
+  .fa-twitter ::after{
+    color:  var(--fifth-black-text-color);
+  }
+  .fa-telegram ::after{
+    color:  var(--fifth-black-text-color);
+  }
+  .fa-instagram :visited{
+    color:  var(--fifth-black-text-color);
+  }
+  .fa-github :visited{
+    color:  var(--fifth-black-text-color);
+  }
+  .fa-twitter :visited{
+    color:  var(--fifth-black-text-color);
+  }
+  .fa-telegram :visited{
+    color:  var(--fifth-black-text-color);
+  }
